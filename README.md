@@ -1,2 +1,3 @@
 # usacosolutions
-usage solutions
+usaco solutions
+(and possibly other code) 
